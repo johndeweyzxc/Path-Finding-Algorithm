@@ -23,3 +23,4 @@ print(graph.path_finding('A', 'X'))
 ```
 
 ## Example graph
+![DiagramMap](https://user-images.githubusercontent.com/107840996/208828095-567c5019-7124-4185-be0f-0d9ab6a0f2f9.jpg)
